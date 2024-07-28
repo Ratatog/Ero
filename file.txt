@@ -1,1 +1,1 @@
-local cyka=("blyat")
+cyka=("blyat")
